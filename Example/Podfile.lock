@@ -1,0 +1,16 @@
+PODS:
+  - AutoLayoutHidden (0.1.0)
+
+DEPENDENCIES:
+  - AutoLayoutHidden (from `../`)
+
+EXTERNAL SOURCES:
+  AutoLayoutHidden:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  AutoLayoutHidden: 9a856a3657e37dbf1f36e1e4fc2120ddf99ef8f3
+
+PODFILE CHECKSUM: bb8b0befced47eeec923d3084710d76700d52746
+
+COCOAPODS: 1.5.3

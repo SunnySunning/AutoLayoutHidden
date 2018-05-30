@@ -1,0 +1,6 @@
+framework module AutoLayoutHidden {
+  umbrella header "AutoLayoutHidden-umbrella.h"
+
+  export *
+  module * { export * }
+}

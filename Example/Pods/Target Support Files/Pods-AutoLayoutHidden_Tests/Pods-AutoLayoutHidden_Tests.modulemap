@@ -1,0 +1,6 @@
+framework module Pods_AutoLayoutHidden_Tests {
+  umbrella header "Pods-AutoLayoutHidden_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
