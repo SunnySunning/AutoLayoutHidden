@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'AutoLayoutHidden_Example' do
+  pod 'AutoLayoutHidden', :path => '../'
+
+  target 'AutoLayoutHidden_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
